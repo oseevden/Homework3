@@ -1,0 +1,15 @@
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\bin\Debug\net6.0\Week.exe
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\bin\Debug\net6.0\Week.deps.json
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\bin\Debug\net6.0\Week.runtimeconfig.json
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\bin\Debug\net6.0\Week.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\bin\Debug\net6.0\Week.pdb
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\obj\Debug\net6.0\Week.csproj.AssemblyReference.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\obj\Debug\net6.0\Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\obj\Debug\net6.0\Week.AssemblyInfoInputs.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\obj\Debug\net6.0\Week.AssemblyInfo.cs
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\obj\Debug\net6.0\Week.csproj.CoreCompileInputs.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\obj\Debug\net6.0\Week.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\obj\Debug\net6.0\refint\Week.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\obj\Debug\net6.0\Week.pdb
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\obj\Debug\net6.0\Week.genruntimeconfig.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\Week\obj\Debug\net6.0\ref\Week.dll
