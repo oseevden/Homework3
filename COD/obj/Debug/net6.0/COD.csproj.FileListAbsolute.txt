@@ -1,0 +1,15 @@
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\obj\Debug\net6.0\COD.csproj.AssemblyReference.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\obj\Debug\net6.0\COD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\obj\Debug\net6.0\COD.AssemblyInfoInputs.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\obj\Debug\net6.0\COD.AssemblyInfo.cs
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\obj\Debug\net6.0\COD.csproj.CoreCompileInputs.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\bin\Debug\net6.0\COD.exe
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\bin\Debug\net6.0\COD.deps.json
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\bin\Debug\net6.0\COD.runtimeconfig.json
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\bin\Debug\net6.0\COD.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\bin\Debug\net6.0\COD.pdb
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\obj\Debug\net6.0\COD.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\obj\Debug\net6.0\refint\COD.dll
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\obj\Debug\net6.0\COD.pdb
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\obj\Debug\net6.0\COD.genruntimeconfig.cache
+C:\Users\oseev\Documents\Тестестеровшик\C#\.vscode\COD\obj\Debug\net6.0\ref\COD.dll
